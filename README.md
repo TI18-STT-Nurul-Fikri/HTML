@@ -6,9 +6,9 @@ Repositori ini berisi pembelajaran dan contoh-contoh dari impelementasi HTML.
 
 Dipersilahkan bila ingin melakukan open pull request atau kontribusi pada repositori **HTML**. Sebelum itu, bacalah terlebih dahulu [peraturan dan pedomannya](CONTRIBUTING.md) yang dapat ditemukan pada `CONTRIBUTING.md`.
 
-## Quick Access (Akses Cepat)
-
-Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat link berikut:
+## Akses Cepat (Akses Cepat)
+kami
+Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat melalui link berikut:
 
 - [HTML](https://github.com/TI18-STT-Nurul-Fikri/HTML)
 
@@ -26,8 +26,8 @@ Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat li
   - [Comments](https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTML%20Comments)
   - [Images](https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTML%20Images)
   - [Lists](https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTML%20Lists)
-  - [Forms](https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTMLForms)
-  - [Responsive](https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTML%20Responsive)
+  - [Formulir] (https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTMLForms)
+  - [Responsif] ( https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTML%20Responsive )
   - [Semantic](https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTML%20Semantic)
   - [Color](https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTMLColor)
   - [Tables](https://github.com/TI18-STT-Nurul-Fikri/HTML/tree/main/HTML/HTML%20Tables)
